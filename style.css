@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(201, 201, 201);
+    margin: 10px;
+}
+.container{
+    background-color: azure;
+    border-radius: 3px;
+    padding: 8px;
+}
+.campoquant{
+    width: 80px;
+}
+.card-tamanho-imagem{
+    height: 115px;
+
+}
+.botaoeditar{
+    width: 10px;
+    transition: 0.3s;
+}
+.botaoeditar:hover{
+    width: 13px;
+    transition: 0.3s;
+    cursor: pointer;
+}
